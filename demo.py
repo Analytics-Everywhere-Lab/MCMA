@@ -166,7 +166,7 @@ if __name__ == '__main__':
     # Model loading
     # https://drive.google.com/drive/folders/1m57dz-FhcQCGNoZ2wxA_sUoHgrrGRHIn?usp=sharing
     # Ignore this step after you have saved the model
-    # keras_model = modelx()
+    keras_model = modelx()
 
     saved_model_path = "Generator"
 
